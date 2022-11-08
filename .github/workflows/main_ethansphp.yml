@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ethansphp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2D27A4FAF011451CA8A82E7881936BD5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_728F297CC53D468C827E787D362FA1D3 }}
           package: .
