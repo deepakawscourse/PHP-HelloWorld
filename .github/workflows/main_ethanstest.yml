@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'ethanstest'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_961C80CF5E2348D4A7D35F3AAC2AEF07 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B2BAC2ABFC0E45D581F4F8DD4B47680A }}
           package: .
